@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>第一篇博客</title>
+    <url>/posts/ff05b5bf/</url>
+    <content><![CDATA[<h2 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h2><p>话说从去年开始，我就想有一个自己的网站。于是我建立了我的<a href="https://hanzn-zzx.gitlab.io/doc">vitepress网站</a>。但是，我发现在vitepress下并不能随意地书写自己的心情，于是便想着要建立一个hexo博客站。于是，在我几个月的学习后，终于抽出时间来完成了建站的任务。</p>
+<p>站点由hexo强力驱动，主题Fluid。使用gitlab pages托管。感谢<a href="https://pzm9012.github.io/">pzm9012</a>大佬的帮助和他的博客站点作为参考，感谢深度论坛<a href="https://linux-qitong.top/">青稚°</a>提供的教程帖子<a href="https://bbs.deepin.org/post/256318">搭建hexo博客</a>，以及hexo和fluid文档的作者。</p>
+<p>其实建立这个站点还是废了我很多功夫的。不过它今日既成之，我则会维护好这个我能够自说自话的地方。我其实已经初三，学业很忙，并没有足够的时间来写文章。但是，能在开源世界留下自己的一个脚印，足矣……</p>
+<p>想要更了解我，可以看看关于页（虽然那一页我没太认真写哈哈）</p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>小记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>deepin23正式版发布啦</title>
+    <url>/posts/6f4302ac/</url>
+    <content><![CDATA[<h2 id="deepin23正式版终于要发布啦！！！"><a href="#deepin23正式版终于要发布啦！！！" class="headerlink" title="deepin23正式版终于要发布啦！！！"></a>deepin23正式版终于要发布啦！！！</h2><p><img src="https://bbs.deepin.org.cn/forum/e402554498db85444bfa32b5edee380b.jpg" alt="deepin-release.jpg"></p>
+<p>盼望了好久了……这到24年中旬才发布<br>分享一下直播</p>
+<iframe style="width: 100%;height: 400px;" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=4584766&quality=0" frameborder="no"    framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
+
+<h2 id="贺深度书"><a href="#贺深度书" class="headerlink" title="贺深度书"></a>贺深度书</h2><blockquote>
+<p>用UOS AI百度千帆写的初稿，然后自己润色成文。</p>
+</blockquote>
+<p>岁在壬寅，季秋之月，欣闻deepin23，翩然问世，鸿篇巨制，耀目生辉。</p>
+<p>忆往昔，吾识深度，已二年有半矣。彼时见之，宛若清风拂面，雅致脱俗，操作便捷，界面清丽，令人一见倾心。岁月流转，版本更迭，深度日益精进，功能愈全，性能愈强，犹龙腾九天，势不可挡。</p>
+<p>今朝deepin23发布，乃深度团队匠心独运，智慧结晶。观其界面，更趋完美，赏心悦目；探其功能，丰富多元，便捷高效。此乃国产操作系统之翘楚，亦吾辈科技爱好者之骄傲。</p>
+<p>展望未来，深度定能乘风破浪，持续创新，不仅在用户体验上追求极致，更在生态构建上广开新局。愿其携手更多开发者与合作伙伴，共筑国产操作系统之繁荣生态，让deepin之光，照亮世界每一个角落。吾辈深信，deepin之未来，定将璀璨夺目，引领时代潮流，成就科技新篇章。</p>
+<p>此情此景，感慨系之，特撰此文，以表贺望。</p>
+<h2 id="一些猜想的功能-特性大猜想活动"><a href="#一些猜想的功能-特性大猜想活动" class="headerlink" title="一些猜想的功能(特性大猜想活动)"></a>一些猜想的功能(特性大猜想活动)</h2><blockquote>
+<p><a href="https://bbs.deepin.org.cn/post/276193">有奖活动-deepin V23特性大猜想！</a></p>
+</blockquote>
+<ol>
+<li>dde-shell继续融合各种组件</li>
+<li>支持无线投屏（屏幕共享）</li>
+<li>玲珑支持更加完善</li>
+<li>提高系统稳定性，优化整体流畅度（手动狗头</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>Linux</tag>
+        <tag>deepin</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Linux知识分享（转载）</title>
     <url>/posts/e9d015c9/</url>
     <content><![CDATA[<h2 id="一、初见Linux目录结构"><a href="#一、初见Linux目录结构" class="headerlink" title="一、初见Linux目录结构"></a>一、初见Linux目录结构</h2><p>Linux系统中的目录跟Windows中文件夹的概念差不多。但两者的目录结构有很多不同。</p>
@@ -279,79 +324,6 @@
       </tags>
   </entry>
   <entry>
-    <title>deepin23正式版发布啦</title>
-    <url>/posts/6f4302ac/</url>
-    <content><![CDATA[<h2 id="deepin23正式版终于要发布啦！！！"><a href="#deepin23正式版终于要发布啦！！！" class="headerlink" title="deepin23正式版终于要发布啦！！！"></a>deepin23正式版终于要发布啦！！！</h2><p><img src="https://bbs.deepin.org.cn/forum/e402554498db85444bfa32b5edee380b.jpg" alt="deepin-release.jpg"></p>
-<p>盼望了好久了……这到24年中旬才发布<br>分享一下直播</p>
-<iframe style="width: 100%;height: 400px;" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=4584766&quality=0" frameborder="no"    framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
-
-<h2 id="贺深度书"><a href="#贺深度书" class="headerlink" title="贺深度书"></a>贺深度书</h2><blockquote>
-<p>用UOS AI百度千帆写的初稿，然后自己润色成文。</p>
-</blockquote>
-<p>岁在壬寅，季秋之月，欣闻deepin23，翩然问世，鸿篇巨制，耀目生辉。</p>
-<p>忆往昔，吾识深度，已二年有半矣。彼时见之，宛若清风拂面，雅致脱俗，操作便捷，界面清丽，令人一见倾心。岁月流转，版本更迭，深度日益精进，功能愈全，性能愈强，犹龙腾九天，势不可挡。</p>
-<p>今朝deepin23发布，乃深度团队匠心独运，智慧结晶。观其界面，更趋完美，赏心悦目；探其功能，丰富多元，便捷高效。此乃国产操作系统之翘楚，亦吾辈科技爱好者之骄傲。</p>
-<p>展望未来，深度定能乘风破浪，持续创新，不仅在用户体验上追求极致，更在生态构建上广开新局。愿其携手更多开发者与合作伙伴，共筑国产操作系统之繁荣生态，让deepin之光，照亮世界每一个角落。吾辈深信，deepin之未来，定将璀璨夺目，引领时代潮流，成就科技新篇章。</p>
-<p>此情此景，感慨系之，特撰此文，以表贺望。</p>
-<h2 id="一些猜想的功能-特性大猜想活动"><a href="#一些猜想的功能-特性大猜想活动" class="headerlink" title="一些猜想的功能(特性大猜想活动)"></a>一些猜想的功能(特性大猜想活动)</h2><blockquote>
-<p><a href="https://bbs.deepin.org.cn/post/276193">有奖活动-deepin V23特性大猜想！</a></p>
-</blockquote>
-<ol>
-<li>dde-shell继续融合各种组件</li>
-<li>支持无线投屏（屏幕共享）</li>
-<li>玲珑支持更加完善</li>
-<li>提高系统稳定性，优化整体流畅度（手动狗头</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>Linux</tag>
-        <tag>deepin</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第一篇博客</title>
-    <url>/posts/ff05b5bf/</url>
-    <content><![CDATA[<h2 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h2><p>话说从去年开始，我就想有一个自己的网站。于是我建立了我的<a href="https://hanzn-zzx.gitlab.io/doc">vitepress网站</a>。但是，我发现在vitepress下并不能随意地书写自己的心情，于是便想着要建立一个hexo博客站。于是，在我几个月的学习后，终于抽出时间来完成了建站的任务。</p>
-<p>站点由hexo强力驱动，主题Fluid。使用gitlab pages托管。感谢<a href="https://pzm9012.github.io/">pzm9012</a>大佬的帮助和他的博客站点作为参考，感谢深度论坛<a href="https://linux-qitong.top/">青稚°</a>提供的教程帖子<a href="https://bbs.deepin.org/post/256318">搭建hexo博客</a>，以及hexo和fluid文档的作者。</p>
-<p>其实建立这个站点还是废了我很多功夫的。不过它今日既成之，我则会维护好这个我能够自说自话的地方。我其实已经初三，学业很忙，并没有足够的时间来写文章。但是，能在开源世界留下自己的一个脚印，足矣……</p>
-<p>想要更了解我，可以看看关于页（虽然那一页我没太认真写哈哈）</p>
-]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>小记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>初中生活结束了……</title>
-    <url>/posts/9876ecb4/</url>
-    <content><![CDATA[<p>转眼间三年就过去了……纵有万般不舍却已是事实。后天我们就要各自奔赴中考考场，然后再次开启各自的征途。这一段时间是我们的短暂人生交集，却碰撞出了璀璨的火花。<br>赠语还是等到中考后再抽时间发表吧。先放几张图片在这。<br>中考加油！<br><img src="/img/posts_image/graduation-of-middle-school/4d040e7ad2a72b2c047f008459c964c9.jpg" alt="1.jpg"><br><img src="/img/posts_image/graduation-of-middle-school/222.jpg" alt="2.jpg"><br><img src="/img/posts_image/graduation-of-middle-school/333.jpg" alt="3.jpg"><br><img src="/img/posts_image/graduation-of-middle-school/84291EEBD8C364C4082F8D0C8D6E152E.png" alt="4.png"><br><img src="/img/posts_image/graduation-of-middle-school/aabb764a5046209035d29d5fae488c85_720.jpg" alt="5.jpg"></p>
-]]></content>
-      <tags>
-        <tag>生活</tag>
-        <tag>学校</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>新年快乐</title>
-    <url>/posts/2b9cc7eb/</url>
-    <content><![CDATA[<h2 id="祝各位新年快乐！"><a href="#祝各位新年快乐！" class="headerlink" title="祝各位新年快乐！"></a>祝各位新年快乐！</h2><p>在新的一年里，我们定将奋发有为，昂扬向前！恰同学少年，风华正茂！</p>
-<hr>
-<p><strong>对deepin的话：</strong></p>
-<p>祝deepin的开发者们和deepin论坛的小伙伴们：</p>
-<p><strong>龙年大吉、五福临门！！！ <img src="/img/deepin-raccon/%5Byeah%5D.gif" alt="yeah.gif"></strong></p>
-<p>也希望deepin在新的一年里越来越好，越来越稳定，社区用户越来越多。还有期望deepin23早日发布，treeland、玲珑早日稳定！</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>小记</tag>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>音乐播放器成了！</title>
     <url>/posts/9f50842e/</url>
     <content><![CDATA[<h2 id="终于搞好音乐播放器了！"><a href="#终于搞好音乐播放器了！" class="headerlink" title="终于搞好音乐播放器了！"></a>终于搞好音乐播放器了！</h2><p>为了折腾这个音乐播放器，我搞了好久……感谢<a href="https://linux-qitong.top/">青稚</a>大佬的鼎力帮助！</p>
@@ -367,6 +339,35 @@
       </categories>
       <tags>
         <tag>小记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>中考大捷</title>
+    <url>/posts/875648f9/</url>
+    <content><![CDATA[<p>九江中考成绩出了，人生第一次啊……<br>查之前紧张得很，查完了那是个如释重负哈哈<br>不过也只能算一个阶段性的成果吧，革命尚未成功，同志仍需努力<br>也得感谢下蔡旻希同志哈哈（我自己折腾不出来她帮我看的）</p>
+<hr>
+<p>三年的时光就这么逝去了，一叶扁舟载，回忆怀中来……</p>
+<p>最后还是附上闽南樱凡发在动态里的的一段话，歌以咏志</p>
+<blockquote>
+<p>反反复复，得得失失，回忆像一条破碎的水晶项链，在时光的折射下熠熠生辉，却再也无法拼凑出完美的形状。小小的地方承载了我和我们的三年，往事随风飘散，我们也各奔东西，遗憾的是无法再次感受樟树枝叶间散落的阳光，也许我正走在弗罗斯特选择的人迹更少的道路上，路径延绵无尽头，恐怕我难以再回返。但人生这条路，不走走看谁知道会怎么样呢，我相信一切都会是最好的安排，我会永远想念这段时光，永远想念我们。愿我们在无法相见的日子里幸福安康。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>小记</tag>
+        <tag>学校</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>初中生活结束了……</title>
+    <url>/posts/9876ecb4/</url>
+    <content><![CDATA[<p>转眼间三年就过去了……纵有万般不舍却已是事实。后天我们就要各自奔赴中考考场，然后再次开启各自的征途。这一段时间是我们的短暂人生交集，却碰撞出了璀璨的火花。<br>赠语还是等到中考后再抽时间发表吧。先放几张图片在这。<br>中考加油！<br><img src="/img/posts_image/graduation-of-middle-school/4d040e7ad2a72b2c047f008459c964c9.jpg" alt="1.jpg"><br><img src="/img/posts_image/graduation-of-middle-school/222.jpg" alt="2.jpg"><br><img src="/img/posts_image/graduation-of-middle-school/333.jpg" alt="3.jpg"><br><img src="/img/posts_image/graduation-of-middle-school/84291EEBD8C364C4082F8D0C8D6E152E.png" alt="4.png"><br><img src="/img/posts_image/graduation-of-middle-school/aabb764a5046209035d29d5fae488c85_720.jpg" alt="5.jpg"></p>
+]]></content>
+      <tags>
+        <tag>学校</tag>
+        <tag>生活</tag>
       </tags>
   </entry>
   <entry>
@@ -414,22 +415,21 @@
       </tags>
   </entry>
   <entry>
-    <title>中考大捷</title>
-    <url>/posts/875648f9/</url>
-    <content><![CDATA[<p>九江中考成绩出了，人生第一次啊……<br>查之前紧张得很，查完了那是个如释重负哈哈<br>不过也只能算一个阶段性的成果吧，革命尚未成功，同志仍需努力<br>也得感谢下蔡旻希同志哈哈（我自己折腾不出来她帮我看的）</p>
+    <title>新年快乐</title>
+    <url>/posts/2b9cc7eb/</url>
+    <content><![CDATA[<h2 id="祝各位新年快乐！"><a href="#祝各位新年快乐！" class="headerlink" title="祝各位新年快乐！"></a>祝各位新年快乐！</h2><p>在新的一年里，我们定将奋发有为，昂扬向前！恰同学少年，风华正茂！</p>
 <hr>
-<p>三年的时光就这么逝去了，一叶扁舟载，回忆怀中来……</p>
-<p>最后还是附上闽南樱凡发在动态里的的一段话，歌以咏志</p>
-<blockquote>
-<p>反反复复，得得失失，回忆像一条破碎的水晶项链，在时光的折射下熠熠生辉，却再也无法拼凑出完美的形状。小小的地方承载了我和我们的三年，往事随风飘散，我们也各奔东西，遗憾的是无法再次感受樟树枝叶间散落的阳光，也许我正走在弗罗斯特选择的人迹更少的道路上，路径延绵无尽头，恐怕我难以再回返。但人生这条路，不走走看谁知道会怎么样呢，我相信一切都会是最好的安排，我会永远想念这段时光，永远想念我们。愿我们在无法相见的日子里幸福安康。</p>
-</blockquote>
+<p><strong>对deepin的话：</strong></p>
+<p>祝deepin的开发者们和deepin论坛的小伙伴们：</p>
+<p><strong>龙年大吉、五福临门！！！ <img src="/img/deepin-raccon/%5Byeah%5D.gif" alt="yeah.gif"></strong></p>
+<p>也希望deepin在新的一年里越来越好，越来越稳定，社区用户越来越多。还有期望deepin23早日发布，treeland、玲珑早日稳定！</p>
 ]]></content>
       <categories>
         <category>日常</category>
       </categories>
       <tags>
         <tag>小记</tag>
-        <tag>学校</tag>
+        <tag>生活</tag>
       </tags>
   </entry>
 </search>
